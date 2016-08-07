@@ -1,0 +1,43 @@
+<delivery.com.delivary_boy.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#f8f9fe">
+
+
+    <Button
+        android:id="@+id/btnOrdersFeed"
+        style="@style/DashboardButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/news_feed_default"
+        android:text="@string/btnLastOrders"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPontins"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ponans_default"
+        android:text="@string/btnPontins"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnOnline"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/online"
+        android:text="@string/btnAvalabil"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnOffline"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/offline"
+        android:text="@string/btnUnavalabil"/>
+
+
+
+</delivery.com.delivary_boy.DashboardLayout>

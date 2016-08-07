@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/background_floating_material_light"
+                android:padding="15dp">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnSendOrder"
+        android:background="@drawable/buttonshape"
+        android:layout_marginTop="49dp"
+        android:padding="10dp"
+        android:layout_below="@+id/editText"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:text=""
+        android:textAlignment="center"
+        android:id="@+id/editText"
+        android:layout_marginTop="34dp"
+        android:layout_below="@+id/textView4"
+        android:layout_toRightOf="@+id/textView5"
+        android:layout_alignParentLeft="false"
+        android:layout_alignRight="@+id/textView4"
+        android:layout_alignEnd="@+id/textView4"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/titPriceOrder"
+        android:id="@+id/textView4"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/titMoneyPrice"
+        android:id="@+id/textView5"
+        android:layout_alignTop="@+id/editText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/editText"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text=" + 0.00"
+        android:id="@+id/txtServicePrice"
+        android:layout_alignBottom="@+id/editText"
+        android:layout_toRightOf="@+id/editText"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:gravity="center"
+        android:textColor="@color/abc_input_method_navigation_guard"/>
+
+</RelativeLayout>

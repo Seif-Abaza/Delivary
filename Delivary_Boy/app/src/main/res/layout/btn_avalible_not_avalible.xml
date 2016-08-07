@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="match_parent"
+              android:clickable="false"
+              android:contextClickable="false"
+              android:focusable="false"
+              android:focusableInTouchMode="false"
+              android:measureWithLargestChild="false"
+              android:nestedScrollingEnabled="false"
+              android:padding="5dp"
+              android:gravity="center_horizontal">
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/buttonshape"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnAvalabil"
+        android:id="@+id/btnOnline"
+        android:layout_gravity="right"
+        android:layout_weight="1"/>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/buttonshape"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnUnavalabil"
+        android:id="@+id/btnOffline"
+        android:layout_weight="1"/>
+</LinearLayout>

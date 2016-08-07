@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3c4155</color>
+    <color name="colorPrimaryDark">#364253</color>
+    <color name="colorAccent">#2b3e5b</color>
+    <color name="black">#3c4655</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_color_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="timestamp">#a0a3a7</color>
+</resources>

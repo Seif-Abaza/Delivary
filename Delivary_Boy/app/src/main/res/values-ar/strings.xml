@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="btnCancel">إلغاء</string>
+    <string name="btnNext">التالي</string>
+    <string name="titMotorNumber">رقم المركبة</string>
+    <string name="titName">الأسم</string>
+    <string name="titPhoneNumber">رقم الهاتف</string>
+    <string name="titZone">منطقة العمل</string>
+    <string name="btnAvalabil">متاح</string>
+    <string name="btnUnavalabil">غير متاح</string>
+    <string name="msgError">خطأ</string>
+    <string name="msg">الرجاء الإتصال بالإنترنت</string>
+    <string name="btnOK">موافق</string>
+    <string name="msgCNot_Connect">تعذر الوصول إلى الخادم الرئيسي</string>
+    <string name="titIDNumber">رقم البطاقة الشخصية</string>
+    <string name="msgCNRWName">لا يُمكن التسجيل بدون أسم</string>
+    <string name="msgCNRWPhone">لا يُمكن التسجيل بدون رقم هاتف</string>
+    <string name="msgCNRWMotorNumber">لا يُمكن التسجيل بدون رقم المركبة</string>
+    <string name="msgCNRWIDN">لا يُمكن التسجيل بدون رقم البطاقة الشخصية</string>
+    <string name="dilogWait">الرجاء الإنتظار...</string>
+    <string name="msgFiled">لا يُمكن إنشاء سجل جديد</string>
+    <string name="msgAlertisUsed">هذا المستخدم موجود بالفعل</string>
+    <string name="msgUnknow">تعذر الوصول للخادم</string>
+    <string name="btnLastOrders">الطلبات المتاحة</string>
+    <string name="btnPontins">رصيد النقاط</string>
+    <string name="title_activity_dashbord">الرئيسية</string>
+    <string name="mesServer">رسالة من الإدارة</string>
+    <string name="titStatusNow">حالتك الأن على الشبكة هي :</string>
+    <string name="titStatusNowOffline">حالتك الأن على الشبكة هي : غير متاح</string>
+    <string name="titStatusNowOnline">حالتك الأن على الشبكة هي : متاح</string>
+    <string name="msgOpenGPS">يجب فتح نظام تحديد المواقع لبدء العمل</string>
+    <string name="titYourPointsis">رصيدك هو</string>
+    <string name="titNameService">أسم الطالب</string>
+    <string name="titAddressService">العنوان</string>
+    <string name="titQuantaty">كميات الطلبات</string>
+    <string name="titAmount">المبلغ</string>
+    <string name="titDone">تم التسجيل بنجاح</string>
+    <string name="msgRegDone">تم التسجيل بنجاح \n سيتم إعادة التشغيل الأن ..</string>
+    <string name="titTime">وقت إنشاء الطلب</string>
+    <string name="titPhone">الهاتف</string>
+    <string name="titUpdate">تم التحديث</string>
+    <string name="lblNumOrder">رقم الطلب</string>
+</resources>

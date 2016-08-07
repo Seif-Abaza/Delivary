@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Delevary Restaurant</string>
+
+    <string name="title_activity_abaza.privatecom.splash">Delevary Restaurant</string>
+    <string name="btnMyOrderWith">My Order With</string>
+    <string name="btnLastOrderList">Last Order List</string>
+    <string name="titShopName">Restaurant Name</string>
+    <string name="titRestauranNumber">Tirmanal Number</string>
+    <string name="titResturanLocation">Location</string>
+    <string name="titRestauranPhone">Phone Number</string>
+    <string name="btnRegest">Regestration</string>
+    <string name="powerby">PrivateCom</string>
+    <string name="msgSuccess">Regestration is Done</string>
+    <string name="msgFiled">Can not Make new Regestration , Alared Exist</string>
+    <string name="msgUnknow">Can\'t Access Server</string>
+    <string name="msgAlertisUsed">This User is Old</string>
+    <string name="msgBlock">Your Account is Blocked</string>
+    <string name="msgNoNetwork">Can\'t find Internet</string>
+    <string name="titError">Error</string>
+    <string name="titAddress">Address</string>
+    <string name="titNumberOfOrder">Number Of Orders</string>
+    <string name="btnCancel">Cancel Orders</string>
+    <string name="btnNext">Next</string>
+    <string name="titPriceOrder">Pricae Orders</string>
+    <string name="btnSendOrder">Send Order</string>
+    <string name="titMoneyPrice">Paound</string>
+    <string name="dilogWait">Please Wait...</string>
+    <string name="msgAssoon">As Soon as possibol your order will resevid</string>
+    <string name="diloErrorAmount">Can\'t set Amount NOTHIN</string>
+    <string name="diloErrorQuantati">Can\'t set Quantati is NOTHING</string>
+    <string name="btnRecordDelivary">Traker</string>
+    <string name="titDelivaryNumber">Delavary Number</string>
+    <string name="titWhoTalkyourorder">Your Order</string>
+    <string name="titOpenTask">Open Tasks</string>
+    <string name="itemList">Task</string>
+    <string name="titPRICE_PARTICIPATION">Price Participation</string>
+    <string name="titErrorMessage">Can\'t Regestration</string>
+    <string name="btnOK">OK</string>
+    <string name="msgCNRWOServiceName">Can\'t Regersteration Without Service Name</string>
+    <string name="msgCNRWOPhoneNumber">Can\'t Regerstation Without Phone Number</string>
+    <string name="msgCNRWOAddress">Can\'t Regerstation Without Address</string>
+    <string name="msgCNRWOPraceService">Can\'t Regestrat Without Price Service</string>
+    <string name="msgPrice">Writ the price</string>
+    <string name="msgWithoutAandQ">Can\'t Send Order without Amount and quantry</string>
+    <string name="titDone">Create Regestration is Done</string>
+    <string name="msgRegDone">Regestration is Done \n Must Restart Application now...</string>
+    <string name="titOwnerOrder">Casher Name</string>
+    <string name="NoTasks">Not Find Tasks</string>
+    <string name="titTrackerisDone">We Will Tracker your Order and Thanks for Trust us</string>
+    <string name="titNotfind">This Delivary Boy Not in our Network</string>
+    <string name="btnNeely">Who is Neer</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
